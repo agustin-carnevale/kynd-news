@@ -1,0 +1,3 @@
+export const FETCH_ARTICLES = 'FETCH_ARTICLES';
+export const SHOW_ARTICLE = 'SHOW_ARTICLE';
+export const SHOW_TITLES = 'SHOW_TITLES';
